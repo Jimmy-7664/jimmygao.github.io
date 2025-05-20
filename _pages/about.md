@@ -10,4 +10,4 @@ I'm a first year Phd student from [Department of Information and Communication E
 
 I am very fortunate to be advised by [Prof. Kenjiro Taura](https://www.u-tokyo.ac.jp/focus/ja/people/people000415.html) and [Prof. Renhe Jiang](https://scholar.google.com/citations?user=Yo2lwasAAAAJ&hl=en). 
 
-You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Curriculum Vitae](https://jimmy-7664.github.io/jimmygao.github.io/assets/Curriculum_Vitae.pdf).
